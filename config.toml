@@ -18,7 +18,7 @@ enableMissingTranslationPlaceholders = false
 [Params]
 
     # Souce Code repository section
-    description = "Mandari lessons with Nuraini"
+    description = "Mandarin lessons with Nuraini"
     github_repository = "https://github.com/haziqj/zhong-wen"
     version = "0.1.0"
 
