@@ -6,3 +6,7 @@
   HUGO_VERSION = "0.30.2"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
+
+[submodule "themes/hugo-theme-techdoc"]
+  path = themes/hugo-theme-techdoc
+  url = https://github.com/thingsym/hugo-theme-techdoc.git
