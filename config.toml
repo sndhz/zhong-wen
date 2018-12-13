@@ -1,6 +1,6 @@
-baseURL = "zhong-wen.haziqj.ml"
+baseURL = "/"
 
-languageCode = "en-gb"
+languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "中文學習分享組群 🀄📒🤓"
 theme = "hugo-theme-techdoc"
