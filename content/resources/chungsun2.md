@@ -5,9 +5,7 @@ draft: false
 weight: 2
 ---
 
-## Tones
-
-First Tone
+## First Tone
 
 |     | Word |     | Meaning | Phrases |
 |-----|------|-----|---------|---------|
@@ -24,7 +22,7 @@ First Tone
 | 11. | 出 | chū | To go out, to come out. |  |
 | 12. | 只 | zhī/zhǐ | Classifier for birds and certain animals, one of a pair, certain utensils, vessels, etc. |  |
 
-Second Tone
+## Second Tone
 
 |     | Word |     | Meaning | Phrases |
 |-----|------|-----|---------|---------|
@@ -38,8 +36,9 @@ Second Tone
 | 8.  | 禾 | hé | Grain, cereal. |  |
 | 9.  | 来 | lái | Come, arrive. |  |
 | 10. | 和 | hé | And, together with, sum, union, peace, harmony. |  |
+| 11. | 朋 | hé |  | 朋友 |
 
-Third Tone
+## Third Tone
 
 |     | Word |     | Meaning | Phrases |
 |-----|------|-----|---------|---------|
@@ -64,8 +63,10 @@ Third Tone
 | 19. | 脚 | jiǎo | Foot. |  |
 | 20. | 指 | zhǐ | Finger, to point at or to. |  |
 | 21. | 走 | zǒu | To walk, to go, to move. |  |
+| 22. | 友 | yǒu | Friend. | 朋友 |
+| 23. | 写 | xiě | Write. | 写字 |
 
-Fourth Tone
+## Fourth Tone
 
 |     | Word |     | Meaning | Phrases |
 |-----|------|-----|---------|---------|
@@ -90,6 +91,8 @@ Fourth Tone
 | 19. | 立 | lì | To stand, to set up. |  |
 | 20. | 木 | mù | Wood. |  |
 | 21. | 不 | bù (alone) / bú (as prefix) | Negative prefix (no). |  |
+| 22. | 片 | piàn | Classifier, Piece |  |
+| 23. | 谢 | xiè | Thanks | 谢谢 |
 
 Light Tone (轻声)
 
