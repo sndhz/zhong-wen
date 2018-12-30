@@ -7,8 +7,8 @@ weight: 2
 
 ## First Tone
 
-|     | Word |     | Meaning | Phrases |
-|-----|------|-----|---------|---------|
+|     | Word | Pronunciation | Meaning | Phrases |
+|-----|------|---------------|---------|---------|
 | 1.  | 一 | yī | One. |  |
 | 2.  | 三 | sān | Three. |   |
 | 3.  | 七 | qī | Seven. |  |
@@ -24,8 +24,8 @@ weight: 2
 
 ## Second Tone
 
-|     | Word |     | Meaning | Phrases |
-|-----|------|-----|---------|---------|
+|     | Word | Pronunciation | Meaning | Phrases |
+|-----|------|---------------|---------|---------|
 | 1.  | 十 | shí | Ten. |  |
 | 2.  | 人 | rén | Man, person, people. |  |
 | 3.  | 头 | tóu | Head. |  |
@@ -40,8 +40,8 @@ weight: 2
 
 ## Third Tone
 
-|     | Word |     | Meaning | Phrases |
-|-----|------|-----|---------|---------|
+|     | Word | Pronunciation | Meaning | Phrases |
+|-----|------|---------------|---------|---------|
 | 1.  | 五 | wǔ  | Five. |  |
 | 2.  | 九 | jiǔ | Nine. |  |
 | 3.  | 百 | bǎi | Hundred. |  |
@@ -68,8 +68,8 @@ weight: 2
 
 ## Fourth Tone
 
-|     | Word |     | Meaning | Phrases |
-|-----|------|-----|---------|---------|
+|     | Word | Pronunciation | Meaning | Phrases |
+|-----|------|---------------|---------|---------|
 | 1.  | 二 | èr | Two. |  |
 | 2.  | 四 | sì | Four. |  |
 | 3.  | 六 | liù | Six. |  |
@@ -96,8 +96,8 @@ weight: 2
 
 ## Light Tone (轻声)
 
-|     | Word |     | Meaning | Phrases |
-|-----|------|-----|---------|---------|
+|     | Word | Pronunciation | Meaning | Phrases |
+|-----|------|---------------|---------|---------|
 | 2.  | 的 | dí/dì/**de** | Posessive particle. |  |
 
 
