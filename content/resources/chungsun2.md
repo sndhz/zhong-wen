@@ -36,7 +36,7 @@ weight: 2
 | 8.  | 禾 | hé | Grain, cereal. |  |
 | 9.  | 来 | lái | Come, arrive. |  |
 | 10. | 和 | hé | And, together with, sum, union, peace, harmony. |  |
-| 11. | 朋 | hé |  | 朋友 |
+| 11. | 朋 | péng |  | 朋友 |
 
 ## Third Tone
 
@@ -48,13 +48,13 @@ weight: 2
 | 4.  | 两 | liǎng | Two, both. |  |
 | 5.  | 水 | shuǐ | Water. |  |
 | 6.  | 口 | kǒu | Mouth. |  |
-| 7.  | 手 | shoǔ | Hand. |  |
+| 7.  | 手 | shǒu | Hand. |  |
 | 8.  | 小 | xiǎo | Small. |  |
 | 9.  | 少 | shǎo | Few. |  |
 | 10. | 火 | huǒ | Fire. |  |
 | 11. | 土 | tǔ | Earth, dust. |  |
 | 12. | 我 | wǒ | Me. |  |
-| 13. | 有 | yoǔ | Have. |  |
+| 13. | 有 | yǒu | Have. |  |
 | 14. | 左 | zuǒ | Left. |  |
 | 15. | 眼 | yǎn | Eye. |  |
 | 16. | 耳 | ěr | Ear. | 耳朵 |
@@ -64,7 +64,7 @@ weight: 2
 | 20. | 指 | zhǐ | Finger, to point at or to. |  |
 | 21. | 走 | zǒu | To walk, to go, to move. |  |
 | 22. | 友 | yǒu | Friend. | 朋友 |
-| 23. | 写 | xiě | Write. | 写字 |
+| 23. | 写 | xiě | To write. | 写字 |
 
 ## Fourth Tone
 
@@ -93,6 +93,7 @@ weight: 2
 | 21. | 不 | bù (alone) / bú (as prefix) | Negative prefix (no). |  |
 | 22. | 片 | piàn | Classifier, Piece |  |
 | 23. | 谢 | xiè | Thanks | 谢谢 |
+| 23. | 字 | zì | Words. |
 
 ## Light Tone (轻声)
 
