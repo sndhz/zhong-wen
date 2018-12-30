@@ -94,7 +94,7 @@ weight: 2
 | 22. | 片 | piàn | Classifier, Piece |  |
 | 23. | 谢 | xiè | Thanks | 谢谢 |
 
-Light Tone (轻声)
+## Light Tone (轻声)
 
 |     | Word |     | Meaning | Phrases |
 |-----|------|-----|---------|---------|
